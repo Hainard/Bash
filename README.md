@@ -1,2 +1,2 @@
-# Bash-scripts
+# Bash
 My script templates for Linux
